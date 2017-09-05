@@ -5,6 +5,8 @@ React Native Module for alipay.com
 
 iOS Module 为 react-native-yunpeng-alipay 的 iOS Module，测试使用没有问题，故暂时没有修改，当无法使用时，会即时更新。
 
+在这里感谢yunpeng的iOSModule。
+
 ## changes
 * ### 2017-09-05
 替换Android依赖包为最新的alipaySdk-20170725.jar，支付方法修改为当前官网推荐的payV2方法。
