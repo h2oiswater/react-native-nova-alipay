@@ -112,7 +112,7 @@ public final class AlipayMoudle extends ReactContextBaseJavaModule {
           }
 
           if (status >= ResultStatus.PROCESSING.getStatus()) {
-            promise.resolve(result);
+            promise.resolve("success");
           } else {
             promise.reject(memo,
                 new RuntimeException(
