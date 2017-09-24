@@ -1,4 +1,4 @@
-# This project fork from [https://github.com/h2oiswater/react-native-nova-alipay](https://github.com/h2oiswater/react-native-nova-alipay)
+# 正在测试[Micjoyce帅哥](https://github.com/Micjoyce)的PR
 
 > 修复react native 0.47 android移除 [createJSModules](https://github.com/facebook/react-native/commit/ce6fb337a146e6f261f2afb564aa19363774a7a8)
 
