@@ -16,6 +16,9 @@
   ],
   "author": "gong jiangpeng",
   "license": "ISC",
+  "peerDependencies": {
+    "react-native": ">=0.47"
+  },
   "bugs": {
     "url": "https://github.com/Micjoyce/react-native-nova-alipay.git/issues"
   },
