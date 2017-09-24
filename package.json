@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h2oiswater/react-native-nova-alipay.git"
+    "url": "git+https://github.com/Micjoyce/react-native-nova-alipay.git.git"
   },
   "keywords": [
     "react-native",
@@ -17,7 +17,7 @@
   "author": "gong jiangpeng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/h2oiswater/react-native-nova-alipay/issues"
+    "url": "https://github.com/Micjoyce/react-native-nova-alipay.git/issues"
   },
-  "homepage": "https://github.com/h2oiswater/react-native-nova-alipay#readme"
+  "homepage": "https://github.com/Micjoyce/react-native-nova-alipay.git#readme"
 }
