@@ -1,7 +1,3 @@
-# 正在测试[Micjoyce帅哥](https://github.com/Micjoyce)的PR
-
-> 修复react native 0.47 android移除 [createJSModules](https://github.com/facebook/react-native/commit/ce6fb337a146e6f261f2afb564aa19363774a7a8)
-
 # react-native-nova-alipay
 
 React Native Module for alipay.com
@@ -11,6 +7,8 @@ iOS Module 为 react-native-yunpeng-alipay 的 iOS Module，测试使用没有�
 在这里感谢yunpeng的iOSModule。
 
 ## changes
+* ### 2017-09-24
+修复react native 0.47 android移除 [createJSModules](https://github.com/facebook/react-native/commit/ce6fb337a146e6f261f2afb564aa19363774a7a8) by [Micjoyce](https://github.com/Micjoyce)
 * ### 2017-09-05
 替换Android依赖包为最新的alipaySdk-20170725.jar，支付方法修改为当前官网推荐的payV2方法。
 
