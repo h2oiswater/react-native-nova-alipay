@@ -66,10 +66,10 @@ public class MainActivity extends ReactActivity {
 
 ## iOS
 
-### With rnpm
+### react-native link
 
 ```
-rnpm link react-native-nova-alipay
+react-native link
 ```
 
 ### Manually
